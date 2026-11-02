@@ -14,8 +14,6 @@ L’objectif : ne plus oublier les anniversaires de mes proches. L’automatisat
 | Lien vidéo dans le dépôt | [Présentation vidéo](Vid%C3%A9o%20n8n%20Bastian/Vide%CC%81o%20/README.md) |
 | Transcript horodaté | [Lire le transcript](Vid%C3%A9o%20n8n%20Bastian/Transcript/transcript.md) |
 
-La vidéo est fournie sous forme de **lien Loom**, et non de fichier vidéo compressé déposé dans le repository.
-
 ## 🎯 Le besoin
 
 J’ai tendance à oublier les anniversaires, même lorsque je reçois une notification sur mon calendrier. Ce projet rassemble dans un même email le rappel et une proposition de message, pour faciliter le passage à l’action.
